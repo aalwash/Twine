@@ -1,9 +1,9 @@
 Twine
-=====
+===========
 
 ![Twine](twine.png)
 
------
+--------
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/PHLAK/Twine.svg)](https://packagist.org/packages/PHLAK/Twine)
 [![Total Downloads](https://img.shields.io/packagist/dt/PHLAK/Twine.svg)](https://packagist.org/packages/PHLAK/Twine)
@@ -14,7 +14,7 @@ Twine
 
 String manipulation, leveled up! -- by, [Chris Kankiewicz](https://www.ChrisKankiewicz.com) ([@PHLAK](https://twitter.com/PHLAK))
 
-Introduction
+Introduction 
 ------------
 
 Twine is a simple string manipulation library with an expressive, fluent syntax.
@@ -23,12 +23,12 @@ Twine is a simple string manipulation library with an expressive, fluent syntax.
 
 Like this project? Keep me caffeinated by [making a donation](https://paypal.me/ChrisKankiewicz).
 
-Requirements
+Requirements 
 ------------
 
   - [PHP](https://php.net) >= 7.0
 
-Install with Composer
+Install  with Composer
 ---------------------
 
 ```bash
@@ -38,7 +38,7 @@ composer require phlak/twine
 Getting Started
 ----------------
 
-First, import Twine:
+First, import, Twine:
 
 ```php
 use PHLAK\Twine;
